@@ -2,7 +2,3 @@
 This is a test repo for TOP
 - This is a thing
 - This is also a thing
-
-
-** another thing **
-== forgot a thing ==
