@@ -1,0 +1,6 @@
+/* pretend this is some c */
+// or maybe C++
+
+int main(void) {
+    return 0;
+}
